@@ -1,0 +1,30 @@
+h1 {
+  text-align: center;
+}
+
+.mainContainer {
+  display: flex;
+}
+
+.event-container {
+  width: 50vw;
+  border: 0.125rem solid;
+  min-height: 100vh;
+}
+
+.all-event-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 0.625rem;
+}
+
+.search-bar {
+  padding: 0.625rem;
+  min-width: 12.5rem;
+}
+
+.events-typography {
+  padding: 0.625rem;
+  margin: 0.625rem 0 1.25rem;
+}

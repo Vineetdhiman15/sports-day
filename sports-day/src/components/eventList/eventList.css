@@ -1,0 +1,16 @@
+.event-list-card {
+    border: 0.125rem solid;
+    padding: 0.625rem;
+    margin: 0.625rem;
+}
+
+.category-name {
+    font-weight: bold;
+    padding: 0.625rem 0;
+}
+
+.event-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.625rem;
+}
